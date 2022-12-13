@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @androidZzT
 - 👀 I’m interested in Mobile Dev
-- 🌱 I’m currently learning Windows OS
+- 🌱 I’m learning Windows OS recently
 
 <!---
 androidZzT/androidZzT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
